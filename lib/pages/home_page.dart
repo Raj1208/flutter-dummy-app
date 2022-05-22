@@ -12,6 +12,7 @@ class HomePage extends StatelessWidget {
           child: Text("Welcome!"),
         ),
       ),
+      drawer: Drawer(),
     );
   }
 }
